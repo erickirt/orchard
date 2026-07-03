@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.12.3] - 2026-07-03
+
 ### Added
 - Automatic in-app updates via [Sparkle](https://sparkle-project.org). Orchard now checks for updates in the background (after asking on first launch) and can install them in place; "Check for Updates…" is also available from the menu. Updates are delivered through an EdDSA-signed appcast.
 
