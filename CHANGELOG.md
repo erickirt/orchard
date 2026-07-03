@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.12.4] - 2026-07-03
+
 ### Added
 - Sidebar badges showing counts at a glance: running containers, and the number of images, mounts, DNS domains, and networks.
 - Diagnostic logging via Apple's unified logging system — filter by subsystem `dev.andon.orchard` in Console.app when troubleshooting.
