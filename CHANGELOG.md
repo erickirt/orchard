@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Error message displayed when trying to start `container` now includes a download link if the binary could not be found.
+
 ## [2.1.3] - 2026-07-08
 
 ### Added
